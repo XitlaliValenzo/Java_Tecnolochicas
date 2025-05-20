@@ -1,11 +1,11 @@
-# Java Tecnolochicas
+# Java Básico 
 Retos del curso de Java con Bedu
 
 
 ## Índice
 | #   | Sesión                                                                                     |
 |-----|--------------------------------------------------------------------------------------------|
-| 01  | [🛠️ Introducción a la programación orientada a objetos en Java](https://github.com/XitlaliValenzo/Java_Tecnolochicas/tree/main/01) |
+| 01  | [🛠️ Introducción a la programación orientada a objetos en Java](https://github.com/XitlaliValenzo/Java_Tecnolochicas/tree/main/SESION 1) |
 | 02  | [➕ Tipos de datos y sentencias de control](https://github.com/XitlaliValenzo/Java_Tecnolochicas/tree/main/02) |
 | 03  | [🧠 Clases y objetos: crea aplicaciones que permitan el ingreso de información](https://github.com/XitlaliValenzo/Java_Tecnolochicas/tree/main/03) |
 | 04  | [🛡️ Elementos de una clase: implementa validación de datos](https://github.com/XitlaliValenzo/Java_Tecnolochicas/tree/main/04) |
